@@ -14,6 +14,7 @@
   </a>
 </p>
 <br>
+</br>
 <h2>🍀 My Languages 🍀</h2>
 <p>
   <a href="https://github.com/$Luho0113">
@@ -21,6 +22,7 @@
   </a>
 </p>
 
+</br>
 </br>
 
 <div><h2> 📖 Currently learning 📖 </h2></div>

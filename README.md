@@ -1,7 +1,8 @@
-### Hi, I'm Luho👋
----
-I am a student learning Github and Java.  
-> 📫 *How to reach me* : [📫](luho0113@gmail.com)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=F7F7F7&height=100&section=header&text=Luho's%20Github&fontSize=40&fontColor=B2B2B2)  
+> Hello:D  
+> I am a student learning Github and Java.  
+  
+<p> 📫 How to reach me : <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com"> </p>
 </br>
 </br>
 </br>

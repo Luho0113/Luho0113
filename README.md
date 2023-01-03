@@ -1,26 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=F7F7F7&height=100&section=header&text=Luho's%20Github&fontSize=40&fontColor=B2B2B2)  
 </br>
-**about me**
+🐶 **about me**
 > Hello:D  
 > I am a student learning Github and Java.  
   
-📫  How to reach me :
+</br>
 <p>
-  <div>
-    <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com"> 
-  </div> </p>
+  <b> 📫How to reach me  </br> :
+  <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com">  
+</p>
 
-📖 Currently learning :
-<div>
+<p>
+  📖Currently learning </br> :
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <br>
-  <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat&logo=Eclipse IDE&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
-</div>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white">
+</p>
 
 </br>
 </br>

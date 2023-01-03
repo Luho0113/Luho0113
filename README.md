@@ -4,28 +4,14 @@
 > Hello:D  
 > I am a student learning Github and Java.  
   
-<p> 📫 How to reach me : <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com"> </p>
-</br>
-</br>
-</br>
+📫  How to reach me :
+<p>
+  <div>
+    <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com"> 
+  </div> </p>
 
-## 🍀 My Git Stats 🍀  
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=swift)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luho0113&theme=tokyonight_duo&mode=weekly&background=F7F7F7&ring=B7B7B7&fire=B7B7B7&currStreakNum=6A6A6A&sideNums=6A6A6A&currStreakLabel=6A6A6A&sideLabels=6A6A6A&dates=F72C2C89&border=00000019)](https://git.io/streak-stats)  
-  
-  
-
-## 🍀 My Languages 🍀
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luho0113&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luho0113&theme=default&utcOffset=8)
-
-</br>
-</br>
-</br>
-
-<div><h2> 📖 Currently learning 📖 </h2></div>
-<div> 
+📖 Currently learning :
+<div>
   <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> 
   <br>
@@ -38,7 +24,24 @@
 
 </br>
 </br>
+</br>
 
+## 🍀 My Git Stats 🍀  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=swift)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luho0113&theme=tokyonight_duo&mode=weekly&background=F7F7F7&ring=B7B7B7&fire=B7B7B7&currStreakNum=6A6A6A&sideNums=6A6A6A&currStreakLabel=6A6A6A&sideLabels=6A6A6A&dates=F72C2C89&border=00000019)](https://git.io/streak-stats)  
+  
+</br> 
+</br>
+
+## 🍀 My Languages 🍀
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luho0113&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Luho0113&theme=default&utcOffset=8)
+
+</br>
+</br>
+</br>
+</br>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=b2b2b2&height=150&section=footer)
 

@@ -1,7 +1,7 @@
 ### Hi, I'm Luho👋
 ---
 I am a student learning Github and Java.  
-> 📫 *How to reach me* : luho0113@gmail.com
+> 📫 *How to reach me* : [📫](luho0113@gmail.com)
 </br>
 </br>
 </br>

@@ -6,8 +6,12 @@
   
 </br>
 <p>
-  <b> 📫How to reach me  </br> :
+  <b> 📫 How to reach me  </br> :
   <a href="mailto:luho0113@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:luho0113@gmail.com">  
+</p>
+<p>
+  <b> 📓 My study review  </br> :
+  <a href="https://jolly-whip-bd6.notion.site/Java-Study-10ae7e01b4dd4d21824e2028604946e2"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://jolly-whip-bd6.notion.site/Java-Study-10ae7e01b4dd4d21824e2028604946e2">
 </p>
 
 <p>

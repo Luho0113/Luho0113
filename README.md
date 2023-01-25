@@ -11,7 +11,7 @@
 </p>
 <p>
   <b> 📓 My study review  </br> :
-  <a href="https://www.notion.so/Java-Study-10ae7e01b4dd4d21824e2028604946e2"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/Java-Study-10ae7e01b4dd4d21824e2028604946e2">
+  <a href="https://www.notion.so/luho0113/JE-s-Study-10ae7e01b4dd4d21824e2028604946e2"> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/luho0113/JE-s-Study-10ae7e01b4dd4d21824e2028604946e2">
     
 </p>
 
